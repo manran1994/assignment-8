@@ -1,6 +1,3 @@
-###### this is the first .py file ###########
-
-####### write your code here ##########
 n, m = map(int, raw_input().split())
 A = [raw_input() for x in range(n)]
 M = []

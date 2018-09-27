@@ -1,6 +1,3 @@
-###### this is the second .py file ###########
-
-####### write your code here ##########
 group = ['abcdefhi', 'jklmnopqr', 'stuvwxyz_']
 K = map(int, raw_input().split())
 A = raw_input()
